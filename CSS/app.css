@@ -1,0 +1,29 @@
+*{
+	font-family: 'Roboto', sans-serif;	
+}
+body{
+	font-size : 16px;
+}
+main{
+	margin-top:70px;
+}
+/* THEME SECTION */
+h1{
+	font-family: 'Pacifico', cursive;
+}
+h1:hover{
+	font-family: 'Pacifico', cursive;
+}
+a {
+
+}
+a :hover{
+
+}
+a :active{
+
+}
+a :visited{
+
+}
+/* THEME SECTION ENDS*/
